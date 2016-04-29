@@ -112,6 +112,8 @@
    <Filename>org.kde.kaddressbook.desktop</Filename>
    <Filename>xboard.desktop</Filename>
    <Filename>gparted.desktop</Filename>
+   <Filename>itweb-settings.desktop</Filename>
+   <Filename>openjdk-7-policytool.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -399,6 +401,8 @@
    <Filename>synaptic.desktop</Filename>
    <Filename>ndisgtk-kde.desktop</Filename>
    <Filename>gparted.desktop</Filename>
+   <Filename>itweb-settings.desktop</Filename>
+   <Filename>openjdk-7-policytool.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
