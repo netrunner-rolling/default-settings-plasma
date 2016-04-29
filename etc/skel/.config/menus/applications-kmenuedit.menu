@@ -111,6 +111,7 @@
    <Filename>org.kde.kmail.desktop</Filename>
    <Filename>org.kde.kaddressbook.desktop</Filename>
    <Filename>xboard.desktop</Filename>
+   <Filename>gparted.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -397,6 +398,7 @@
    <Filename>gnome-disks.desktop</Filename>
    <Filename>synaptic.desktop</Filename>
    <Filename>ndisgtk-kde.desktop</Filename>
+   <Filename>gparted.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
