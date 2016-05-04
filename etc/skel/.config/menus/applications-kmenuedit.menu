@@ -114,6 +114,13 @@
    <Filename>gparted.desktop</Filename>
    <Filename>itweb-settings.desktop</Filename>
    <Filename>openjdk-7-policytool.desktop</Filename>
+   <Filename>kde4-Kontact.desktop</Filename>
+   <Filename>kde4-contactthemeeditor.desktop</Filename>
+   <Filename>kde4-headerthemeeditor.desktop</Filename>
+   <Filename>openjdk-8-policytool.desktop</Filename>
+   <Filename>org.kde.krfb.desktop</Filename>
+   <Filename>plasma-discover-updater.desktop</Filename>
+   <Filename>kde4-ktnef.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -182,6 +189,10 @@
    <Filename>org.kde.sieveeditor.desktop</Filename>
    <Filename>org.kde.akregator.desktop</Filename>
    <Filename>org.kde.kmail.desktop</Filename>
+   <Filename>kde4-contactthemeeditor.desktop</Filename>
+   <Filename>kde4-headerthemeeditor.desktop</Filename>
+   <Filename>kde4-ktnef.desktop</Filename>
+   <Filename>org.kde.krfb.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>kde4-marble.desktop</Filename>
@@ -403,6 +414,7 @@
    <Filename>gparted.desktop</Filename>
    <Filename>itweb-settings.desktop</Filename>
    <Filename>openjdk-7-policytool.desktop</Filename>
+   <Filename>openjdk-8-policytool.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
