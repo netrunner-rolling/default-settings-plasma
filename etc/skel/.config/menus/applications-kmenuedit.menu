@@ -256,6 +256,9 @@
    <Filename>org.kde.pimsettingexporter.desktop</Filename>
    <Filename>org.kde.sieveeditor.desktop</Filename>
    <Filename>org.kde.kaddressbook.desktop</Filename>
+   <Filename>kde4-contactthemeeditor.desktop</Filename>
+   <Filename>kde4-headerthemeeditor.desktop</Filename>
+   <Filename>kde4-ktnef.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>kde4-okular.desktop</Filename>
@@ -289,6 +292,7 @@
    <Filename>kde4-akregator.desktop</Filename>
    <Filename>gnome-disks.desktop</Filename>
    <Filename>org.kde.importwizard.desktop</Filename>
+   <Filename>kde4-ktnef.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
