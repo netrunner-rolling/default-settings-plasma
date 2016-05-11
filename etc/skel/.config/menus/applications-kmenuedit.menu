@@ -419,6 +419,7 @@
    <Filename>itweb-settings.desktop</Filename>
    <Filename>openjdk-7-policytool.desktop</Filename>
    <Filename>openjdk-8-policytool.desktop</Filename>
+   <Filename>synaptic-kde.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
