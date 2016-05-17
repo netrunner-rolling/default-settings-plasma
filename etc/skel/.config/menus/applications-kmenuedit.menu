@@ -150,6 +150,7 @@
    <Merge type="files"/>
    <Filename>gimp.desktop</Filename>
    <Filename>org.kde.gwenview.desktop</Filename>
+   <Filename>kde4-kamoso.desktop</Filename>
    <Filename>kde4-karbon.desktop</Filename>
    <Filename>kde4-krita.desktop</Filename>
    <Filename>kde4-ksnapshot.desktop</Filename>
@@ -203,13 +204,13 @@
    <Merge type="files"/>
    <Filename>firefox.desktop</Filename>
    <Filename>org.kde.konversation.desktop</Filename>
+   <Filename>org.kde.ktpcontactlist.desktop</Filename>
    <Filename>marble.desktop</Filename>
    <Merge type="menus"/>
    <Menuname>More</Menuname>
    <Filename>pidgin.desktop</Filename>
    <Filename>transmission-qt.desktop</Filename>
    <Filename>skype.desktop</Filename>
-   <Filename>org.kde.ktpcontactlist.desktop</Filename>
    <Menuname>Terminal</Menuname>
    <Filename>thunderbird.desktop</Filename>
   </Layout>
@@ -227,6 +228,7 @@
    <Filename>gmusicbrowser.desktop</Filename>
    <Filename>ghb.desktop</Filename>
    <Filename>org.kde.kdenlive.desktop</Filename>
+   <Filename>kde4-kdenlive.desktop</Filename>
    <Filename>pavucontrol.desktop</Filename>
    <Filename>radiotray.desktop</Filename>
    <Filename>vlc.desktop</Filename>
@@ -266,6 +268,7 @@
   <Layout>
    <Merge type="files"/>
    <Filename>libreoffice-startcenter.desktop</Filename>
+   <Filename>libreoffice-base.desktop</Filename>
    <Filename>libreoffice-calc.desktop</Filename>
    <Filename>libreoffice-draw.desktop</Filename>
    <Filename>libreoffice-impress.desktop</Filename>
@@ -293,6 +296,7 @@
    <Filename>gnome-disks.desktop</Filename>
    <Filename>org.kde.importwizard.desktop</Filename>
    <Filename>kde4-ktnef.desktop</Filename>
+   <Filename>imagewriter.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
@@ -306,8 +310,8 @@
    <Filename>kde4-krdc.desktop</Filename>
    <Merge type="menus"/>
    <Menuname>More</Menuname>
+   <Filename>org.kde.spectacle.desktop</Filename>
    <Menuname>XUtilities</Menuname>
-   <Filename>kde4-yakuake.desktop</Filename>
   </Layout>
  </Menu>
  <Menu>
@@ -319,8 +323,10 @@
    <Filename>debian-uxterm.desktop</Filename>
    <Filename>debian-xterm.desktop</Filename>
    <Filename>org.kde.ksshaskpass.desktop</Filename>
+   <Filename>system-config-printer.desktop</Filename>
   </Exclude>
   <Include>
+   <Filename>mintupdate-kde.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
    <Filename>gnome-disks.desktop</Filename>
   </Include>
@@ -328,9 +334,7 @@
    <Merge type="files"/>
    <Filename>gnome-disks.desktop</Filename>
    <Filename>org.kde.dolphin.desktop</Filename>
-   <Filename>fcitx.desktop</Filename>
-   <Filename>kde4-ubiquity-kdeui.desktop</Filename>
-   <Filename>org.kde.PartitionManager.desktop</Filename>
+   <Filename>gparted.desktop</Filename>
    <Filename>org.kde.kinfocenter.desktop</Filename>
    <Filename>org.kde.konsole.desktop</Filename>
    <Filename>org.kde.ksysguard.desktop</Filename>
@@ -341,10 +345,13 @@
    <Filename>sambamounterapp.desktop</Filename>
    <Merge type="menus"/>
    <Menuname>ScreenSavers</Menuname>
-   <Filename>synaptic.desktop</Filename>
+   <Filename>imagewriter.desktop</Filename>
+   <Filename>synaptic-kde.desktop</Filename>
    <Menuname>Terminal</Menuname>
+   <Filename>mintupdate-kde.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
    <Filename>ndisgtk-kde.desktop</Filename>
+   <Filename>org.kde.yakuake.desktop</Filename>
    <Separator/>
    <Menuname>More</Menuname>
   </Layout>
@@ -485,7 +492,8 @@
     <Filename>burgerspace.desktop</Filename>
     <Filename>frozen-bubble.desktop</Filename>
     <Filename>org.kde.kbreakout.desktop</Filename>
-    <Filename>kde4-ksnakeduel.desktop</Filename>
+    <Filename>kde4-kdesnake.desktop</Filename>
+    <Filename>kde4-ktron.desktop</Filename>
    </Layout>
   </Menu>
   <Menu>
@@ -494,7 +502,7 @@
     <Merge type="files"/>
     <Filename>gnome-chess.desktop</Filename>
     <Filename>gnudoq.desktop</Filename>
-    <Filename>kde4-kmahjongg.desktop</Filename>
+    <Filename>org.kde.kmahjongg.desktop</Filename>
    </Layout>
    <Exclude>
     <Filename>xboard.desktop</Filename>
