@@ -1,5 +1,2 @@
-[Wallet]
-Enabled=false
-
 [Migration]
 alreadyMigrated=true 
