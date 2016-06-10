@@ -121,6 +121,7 @@
    <Filename>org.kde.krfb.desktop</Filename>
    <Filename>plasma-discover-updater.desktop</Filename>
    <Filename>kde4-ktnef.desktop</Filename>
+   <Filename>org.kde.ktnef.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -194,6 +195,7 @@
    <Filename>kde4-headerthemeeditor.desktop</Filename>
    <Filename>kde4-ktnef.desktop</Filename>
    <Filename>org.kde.krfb.desktop</Filename>
+   <Filename>org.kde.ktnef.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>kde4-marble.desktop</Filename>
@@ -262,6 +264,7 @@
    <Filename>kde4-contactthemeeditor.desktop</Filename>
    <Filename>kde4-headerthemeeditor.desktop</Filename>
    <Filename>kde4-ktnef.desktop</Filename>
+   <Filename>org.kde.ktnef.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>kde4-okular.desktop</Filename>
@@ -298,6 +301,7 @@
    <Filename>org.kde.importwizard.desktop</Filename>
    <Filename>kde4-ktnef.desktop</Filename>
    <Filename>imagewriter.desktop</Filename>
+   <Filename>org.kde.ktnef.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
