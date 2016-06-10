@@ -28,3 +28,4 @@ runInKonsole=true
 sendFile=false
 sendto=false
 slideshow=false
+kactivitymanagerd_fileitem_linking_plugin=false
