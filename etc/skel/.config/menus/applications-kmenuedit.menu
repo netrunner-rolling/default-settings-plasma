@@ -122,6 +122,8 @@
    <Filename>plasma-discover-updater.desktop</Filename>
    <Filename>kde4-ktnef.desktop</Filename>
    <Filename>org.kde.ktnef.desktop</Filename>
+   <Filename>synaptic-kde.desktop</Filename>
+   <Filename>software-properties-drivers.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -329,11 +331,13 @@
    <Filename>debian-xterm.desktop</Filename>
    <Filename>org.kde.ksshaskpass.desktop</Filename>
    <Filename>system-config-printer.desktop</Filename>
+   <Filename>synaptic-kde.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>mintupdate-kde.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
    <Filename>gnome-disks.desktop</Filename>
+   <Filename>synaptic.desktop</Filename>
   </Include>
   <Layout>
    <Merge type="files"/>
@@ -441,6 +445,7 @@
    <Filename>itweb-settings.desktop</Filename>
    <Filename>im-config.desktop</Filename>
    <Filename>openjdk-7-policytool.desktop</Filename>
+   <Filename>org.gnome.DiskUtility.desktop</Filename>
    <Filename>software-properties-gtk.desktop</Filename>
    <Filename>systemsettings.desktop</Filename>
   </Layout>

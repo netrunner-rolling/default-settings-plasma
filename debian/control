@@ -1,0 +1,13 @@
+Source: default-settings-plasma
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: default-settings-plasma
+Architecture: all
+Replaces: netrunner-default-settings (<< 1.6.1)
+Breaks: netrunner-default-settings (<< 1.6.1)
+Description: Settings for Plasma Desktop
+  This package provides the default configuration of the Plasma Desktop for Maui/Netrunner.
