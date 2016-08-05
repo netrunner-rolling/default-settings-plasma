@@ -124,6 +124,9 @@
    <Filename>org.kde.ktnef.desktop</Filename>
    <Filename>synaptic-kde.desktop</Filename>
    <Filename>software-properties-drivers.desktop</Filename>
+   <Filename>org.kde.contactprintthemeeditor.desktop</Filename>                                                                                                                              
+   <Filename>org.kde.contactthemeeditor.desktop</Filename>                                                                                                                                   
+   <Filename>org.kde.headerthemeeditor.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -198,6 +201,9 @@
    <Filename>kde4-ktnef.desktop</Filename>
    <Filename>org.kde.krfb.desktop</Filename>
    <Filename>org.kde.ktnef.desktop</Filename>
+   <Filename>org.kde.contactprintthemeeditor.desktop</Filename>
+   <Filename>org.kde.contactthemeeditor.desktop</Filename>
+   <Filename>org.kde.headerthemeeditor.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>kde4-marble.desktop</Filename>
@@ -207,9 +213,9 @@
   <Layout>
    <Merge type="files"/>
    <Filename>firefox.desktop</Filename>
-   <Filename>org.kde.konversation.desktop</Filename>
    <Filename>org.kde.ktpcontactlist.desktop</Filename>
    <Filename>marble.desktop</Filename>
+   <Filename>org.kde.konversation.desktop</Filename>
    <Merge type="menus"/>
    <Menuname>More</Menuname>
    <Filename>pidgin.desktop</Filename>
@@ -267,6 +273,9 @@
    <Filename>kde4-headerthemeeditor.desktop</Filename>
    <Filename>kde4-ktnef.desktop</Filename>
    <Filename>org.kde.ktnef.desktop</Filename>
+   <Filename>org.kde.contactprintthemeeditor.desktop</Filename>
+   <Filename>org.kde.contactthemeeditor.desktop</Filename>
+   <Filename>org.kde.headerthemeeditor.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>kde4-okular.desktop</Filename>
