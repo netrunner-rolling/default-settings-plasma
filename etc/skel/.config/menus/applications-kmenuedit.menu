@@ -105,7 +105,6 @@
    <Filename>org.kde.sieveeditor.desktop</Filename>
    <Filename>org.kde.ksshaskpass.desktop</Filename>
    <Filename>org.kde.importwizard.desktop</Filename>
-   <Filename>synaptic.desktop</Filename>
    <Filename>ndisgtk-kde.desktop</Filename>
    <Filename>org.kde.akregator.desktop</Filename>
    <Filename>org.kde.kmail.desktop</Filename>
@@ -122,7 +121,6 @@
    <Filename>plasma-discover-updater.desktop</Filename>
    <Filename>kde4-ktnef.desktop</Filename>
    <Filename>org.kde.ktnef.desktop</Filename>
-   <Filename>synaptic-kde.desktop</Filename>
    <Filename>software-properties-drivers.desktop</Filename>
    <Filename>org.kde.contactprintthemeeditor.desktop</Filename>                                                                                                                              
    <Filename>org.kde.contactthemeeditor.desktop</Filename>                                                                                                                                   
