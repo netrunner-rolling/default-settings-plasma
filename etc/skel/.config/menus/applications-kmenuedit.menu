@@ -338,7 +338,6 @@
    <Filename>debian-xterm.desktop</Filename>
    <Filename>org.kde.ksshaskpass.desktop</Filename>
    <Filename>system-config-printer.desktop</Filename>
-   <Filename>synaptic-kde.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>mintupdate-kde.desktop</Filename>
@@ -362,7 +361,6 @@
    <Merge type="menus"/>
    <Menuname>ScreenSavers</Menuname>
    <Filename>imagewriter.desktop</Filename>
-   <Filename>synaptic-kde.desktop</Filename>
    <Menuname>Terminal</Menuname>
    <Filename>mintupdate-kde.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
@@ -442,7 +440,6 @@
    <Filename>itweb-settings.desktop</Filename>
    <Filename>openjdk-7-policytool.desktop</Filename>
    <Filename>openjdk-8-policytool.desktop</Filename>
-   <Filename>synaptic-kde.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
