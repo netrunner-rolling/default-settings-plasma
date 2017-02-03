@@ -439,6 +439,8 @@
    <Filename>gnome-disks.desktop</Filename>
    <Filename>ndisgtk-kde.desktop</Filename>
    <Filename>gparted.desktop</Filename>
+   <Filename>synaptic-kde.desktop</Filename>
+   <Filename>synaptic.desktop</Filename>
    <Filename>itweb-settings.desktop</Filename>
    <Filename>openjdk-7-policytool.desktop</Filename>
    <Filename>openjdk-8-policytool.desktop</Filename>
@@ -483,6 +485,13 @@
    <Menuname>Web Development</Menuname>
    <Menuname>X-KDE-KDevelopIDE</Menuname>
   </Layout>
+  <Menu>
+   <Name>Translation</Name>
+   <Layout/>
+   <Exclude>
+    <Filename>linguist-qt5.desktop</Filename>
+   </Exclude>
+  </Menu>
  </Menu>
  <Menu>
   <Name>Games</Name>
