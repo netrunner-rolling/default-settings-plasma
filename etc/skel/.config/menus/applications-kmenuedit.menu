@@ -26,6 +26,7 @@
    <Exclude>
     <Filename>libreoffice-math.desktop</Filename>
     <Filename>marble.desktop</Filename>
+    <Filename>org.kde.marble.desktop</Filename>
    </Exclude>
    <Layout/>
   </Menu>
@@ -125,6 +126,7 @@
    <Filename>org.kde.contactprintthemeeditor.desktop</Filename>                                                                                                                              
    <Filename>org.kde.contactthemeeditor.desktop</Filename>                                                                                                                                   
    <Filename>org.kde.headerthemeeditor.desktop</Filename>
+   <Filename>linguist-qt5.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -207,6 +209,7 @@
    <Filename>kde4-marble.desktop</Filename>
    <Filename>kde4-Kontact.desktop</Filename>
    <Filename>marble.desktop</Filename>
+   <Filename>org.kde.marble.desktop</Filename>
   </Include>
   <Layout>
    <Merge type="files"/>
@@ -434,7 +437,6 @@
   <Name>Settingsmenu</Name>
   <Exclude>
    <Filename>gnome-disks.desktop</Filename>
-   <Filename>synaptic.desktop</Filename>
    <Filename>ndisgtk-kde.desktop</Filename>
    <Filename>gparted.desktop</Filename>
    <Filename>itweb-settings.desktop</Filename>
