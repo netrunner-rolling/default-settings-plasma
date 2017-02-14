@@ -1,9 +1,0 @@
-[ElectricBorders]
-BottomRight=None
-
-[Plugins]
-minimizeallEnabled=true
-
-[Script-minimizeall]
-BorderActivate=3
-
