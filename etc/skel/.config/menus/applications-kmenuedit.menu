@@ -127,6 +127,8 @@
    <Filename>org.kde.contactthemeeditor.desktop</Filename>                                                                                                                                   
    <Filename>org.kde.headerthemeeditor.desktop</Filename>
    <Filename>linguist-qt5.desktop</Filename>
+   <Filename>designer-qt5.desktop</Filename>
+   <Filename>assistant-qt5.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -492,6 +494,10 @@
     <Filename>linguist-qt5.desktop</Filename>
    </Exclude>
   </Menu>
+  <Exclude>
+   <Filename>designer-qt5.desktop</Filename>
+   <Filename>assistant-qt5.desktop</Filename>
+  </Exclude>
  </Menu>
  <Menu>
   <Name>Games</Name>
