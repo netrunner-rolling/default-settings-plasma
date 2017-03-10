@@ -123,12 +123,13 @@
    <Filename>kde4-ktnef.desktop</Filename>
    <Filename>org.kde.ktnef.desktop</Filename>
    <Filename>software-properties-drivers.desktop</Filename>
-   <Filename>org.kde.contactprintthemeeditor.desktop</Filename>                                                                                                                              
-   <Filename>org.kde.contactthemeeditor.desktop</Filename>                                                                                                                                   
+   <Filename>org.kde.contactprintthemeeditor.desktop</Filename>
+   <Filename>org.kde.contactthemeeditor.desktop</Filename>
    <Filename>org.kde.headerthemeeditor.desktop</Filename>
    <Filename>linguist-qt5.desktop</Filename>
    <Filename>designer-qt5.desktop</Filename>
    <Filename>assistant-qt5.desktop</Filename>
+   <Filename>org.kde.okular.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -153,18 +154,17 @@
    <Filename>kde4-okularApplication_plucker.desktop</Filename>
    <Filename>display-im6.q16.desktop</Filename>
    <Filename>display-im6.desktop</Filename>
+   <Filename>org.kde.okular.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
+   <Filename>inkscape.desktop</Filename>
+   <Filename>org.kde.krita.desktop</Filename>
+   <Filename>org.kde.skanlite.desktop</Filename>
    <Filename>gimp.desktop</Filename>
    <Filename>org.kde.gwenview.desktop</Filename>
-   <Filename>kde4-kamoso.desktop</Filename>
-   <Filename>kde4-karbon.desktop</Filename>
-   <Filename>kde4-krita.desktop</Filename>
-   <Filename>kde4-ksnapshot.desktop</Filename>
    <Merge type="menus"/>
    <Menuname>More</Menuname>
-   <Filename>kde4-skanlite.desktop</Filename>
   </Layout>
  </Menu>
  <Menu>
@@ -280,9 +280,9 @@
    <Filename>org.kde.contactthemeeditor.desktop</Filename>
    <Filename>org.kde.headerthemeeditor.desktop</Filename>
    <Filename>kde4-okular.desktop</Filename>
+   <Filename>org.kde.okular.desktop</Filename>
   </Exclude>
-  <Include>
-  </Include>
+  <Include/>
   <Layout>
    <Merge type="files"/>
    <Filename>libreoffice-startcenter.desktop</Filename>
@@ -294,7 +294,6 @@
    <Filename>libreoffice-writer.desktop</Filename>
    <Merge type="menus"/>
    <Menuname>More</Menuname>
-   <Filename>kde4-okular.desktop</Filename>
   </Layout>
  </Menu>
  <Menu>
@@ -306,6 +305,7 @@
    <Filename>kde4-yakuake.desktop</Filename>
    <Filename>kde4-krdc.desktop</Filename>
    <Filename>imagewriter.desktop</Filename>
+   <Filename>org.kde.okular.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>virtualbox.desktop</Filename>
@@ -320,14 +320,11 @@
   </Exclude>
   <Layout>
    <Merge type="files"/>
+   <Filename>org.kde.okular.desktop</Filename>
+   <Filename>imagewriter.desktop</Filename>
    <Filename>org.kde.ark.desktop</Filename>
-   <Filename>fcitx.desktop</Filename>
-   <Filename>kde4-k3b.desktop</Filename>
    <Filename>org.kde.kate.desktop</Filename>
    <Filename>org.kde.kcalc.desktop</Filename>
-   <Filename>org.kde.klipper.desktop</Filename>
-   <Filename>org.kde.knotes.desktop</Filename>
-   <Filename>kde4-krdc.desktop</Filename>
    <Merge type="menus"/>
    <Menuname>More</Menuname>
    <Filename>org.kde.spectacle.desktop</Filename>
