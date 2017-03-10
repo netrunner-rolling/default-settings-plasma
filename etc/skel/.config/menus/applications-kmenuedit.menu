@@ -279,9 +279,9 @@
    <Filename>org.kde.contactprintthemeeditor.desktop</Filename>
    <Filename>org.kde.contactthemeeditor.desktop</Filename>
    <Filename>org.kde.headerthemeeditor.desktop</Filename>
+   <Filename>kde4-okular.desktop</Filename>
   </Exclude>
   <Include>
-   <Filename>kde4-okular.desktop</Filename>
   </Include>
   <Layout>
    <Merge type="files"/>
@@ -300,6 +300,7 @@
  <Menu>
   <Name>Utilities</Name>
   <Include>
+   <Filename>kde4-okular.desktop</Filename>
    <Filename>kde4-k3b.desktop</Filename>
    <Filename>calibre-gui.desktop</Filename>
    <Filename>kde4-yakuake.desktop</Filename>
