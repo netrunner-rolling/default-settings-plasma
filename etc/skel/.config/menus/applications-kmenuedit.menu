@@ -304,6 +304,7 @@
    <Filename>calibre-gui.desktop</Filename>
    <Filename>kde4-yakuake.desktop</Filename>
    <Filename>kde4-krdc.desktop</Filename>
+   <Filename>imagewriter.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>virtualbox.desktop</Filename>
@@ -314,7 +315,6 @@
    <Filename>gnome-disks.desktop</Filename>
    <Filename>org.kde.importwizard.desktop</Filename>
    <Filename>kde4-ktnef.desktop</Filename>
-   <Filename>imagewriter.desktop</Filename>
    <Filename>org.kde.ktnef.desktop</Filename>
   </Exclude>
   <Layout>
@@ -343,6 +343,7 @@
    <Filename>debian-xterm.desktop</Filename>
    <Filename>org.kde.ksshaskpass.desktop</Filename>
    <Filename>system-config-printer.desktop</Filename>
+   <Filename>imagewriter.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>mintupdate-kde.desktop</Filename>
@@ -365,7 +366,6 @@
    <Filename>sambamounterapp.desktop</Filename>
    <Merge type="menus"/>
    <Menuname>ScreenSavers</Menuname>
-   <Filename>imagewriter.desktop</Filename>
    <Menuname>Terminal</Menuname>
    <Filename>mintupdate-kde.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
