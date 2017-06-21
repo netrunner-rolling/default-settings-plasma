@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: default-settings-plasma
 Architecture: all
-Replaces: netrunner-default-settings (<< 1.6.1)
-Breaks: netrunner-default-settings (<< 1.6.1)
+Replaces: netrunner-default-settings (<< 1.6.1), netrunner-settings-themeing (<< 1.0+p20170622)
+Breaks: netrunner-default-settings (<< 1.6.1), netrunner-settings-themeing (<< 1.0+p20170622)
 Description: Settings for Plasma Desktop
   This package provides the default configuration of the Plasma Desktop for Maui/Netrunner.
