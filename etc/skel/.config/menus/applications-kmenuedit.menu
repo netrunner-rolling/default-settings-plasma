@@ -131,6 +131,7 @@
    <Filename>assistant-qt5.desktop</Filename>
    <Filename>org.kde.okular.desktop</Filename>
    <Filename>mpv.desktop</Filename>
+   <Filename>synaptic.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -345,12 +346,13 @@
    <Filename>system-config-printer.desktop</Filename>
    <Filename>imagewriter.desktop</Filename>
    <Filename>org.kde.isoimagewriter.desktop</Filename>
+   <Filename>synaptic.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>mintupdate-kde.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
    <Filename>gnome-disks.desktop</Filename>
-   <Filename>synaptic.desktop</Filename>
+   <Filename>synaptic-kde.desktop</Filename>
   </Include>
   <Layout>
    <Merge type="files"/>
