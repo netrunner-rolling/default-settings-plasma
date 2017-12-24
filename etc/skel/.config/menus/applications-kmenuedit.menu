@@ -12,7 +12,8 @@
    <Filename>designer.desktop</Filename>
    <Filename>linguist.desktop</Filename>
    <Filename>qdbusviewer.desktop</Filename>
-   <Filename>CMake.desktop</Filename>
+   <Filename>cmake-gui.desktop</Filename>
+   <Filename>org.kde.kirigami2.gallery.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="menus"/>
@@ -73,7 +74,6 @@
    <Filename>org.kde.ktplogviewer.desktop</Filename>
    <Filename>org.kde.klipper.desktop</Filename>
    <Filename>org.kde.importwizard.desktop</Filename>
-   <Filename>CMake.desktop</Filename>
    <Filename>org.kde.okular.desktop</Filename>
    <Filename>itweb-settings.desktop</Filename>
    <Filename>manjaro-settings-manager.desktop</Filename>
@@ -84,6 +84,8 @@
    <Filename>kde4-krunner.desktop</Filename>
    <Filename>steam-native.desktop</Filename>
    <Filename>steam.desktop</Filename>
+   <Filename>org.kde.kirigami2.gallery.desktop</Filename>
+   <Filename>cmake-gui.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>org.kde.kwalletmanager5.desktop</Filename>
