@@ -3,6 +3,7 @@ Height 989=252
 Width 1920=378
 
 [Main]
+ActiveView=systemsettings_sidebar_mode
 ShowToolTips=false
 
 [MainWindow]
