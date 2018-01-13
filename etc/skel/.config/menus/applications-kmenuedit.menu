@@ -86,6 +86,7 @@
    <Filename>steam.desktop</Filename>
    <Filename>org.kde.kirigami2.gallery.desktop</Filename>
    <Filename>cmake-gui.desktop</Filename>
+   <Filename>mpv.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>org.kde.kwalletmanager5.desktop</Filename>
@@ -266,6 +267,7 @@
    <Filename>kde4-k3b.desktop</Filename>
    <Filename>qv4l2.desktop</Filename>
    <Filename>xine.desktop</Filename>
+   <Filename>mpv.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>org.kde.kamoso.desktop</Filename>
@@ -274,13 +276,14 @@
   </Include>
   <Layout>
    <Merge type="files"/>
+   <Filename>pavucontrol-qt.desktop</Filename>
+   <Filename>smplayer.desktop</Filename>
+   <Filename>yarock.desktop</Filename>
    <Filename>audacious.desktop</Filename>
    <Filename>gmusicbrowser.desktop</Filename>
    <Filename>ghb.desktop</Filename>
    <Filename>org.kde.kamoso.desktop</Filename>
    <Filename>org.kde.kdenlive.desktop</Filename>
-   <Filename>pavucontrol.desktop</Filename>
-   <Filename>vlc.desktop</Filename>
    <Filename>vokoscreen.desktop</Filename>
    <Separator/>
    <Merge type="menus"/>
