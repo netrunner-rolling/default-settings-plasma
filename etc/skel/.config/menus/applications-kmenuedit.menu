@@ -87,6 +87,7 @@
    <Filename>org.kde.kirigami2.gallery.desktop</Filename>
    <Filename>cmake-gui.desktop</Filename>
    <Filename>mpv.desktop</Filename>
+   <Filename>hp-uiscan.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>org.kde.kwalletmanager5.desktop</Filename>
@@ -413,6 +414,7 @@
    <Filename>msm_notifier.desktop</Filename>
    <Filename>vmware-user.desktop</Filename>
    <Filename>kde4-krunner.desktop</Filename>
+   <Filename>hp-uiscan.desktop</Filename>
   </Exclude>
   <Layout/>
  </Menu>
