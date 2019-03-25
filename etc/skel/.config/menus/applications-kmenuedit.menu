@@ -88,6 +88,7 @@
    <Filename>cmake-gui.desktop</Filename>
    <Filename>mpv.desktop</Filename>
    <Filename>hp-uiscan.desktop</Filename>
+   <Filename>qvidcap.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>org.kde.kwalletmanager5.desktop</Filename>
@@ -269,6 +270,7 @@
    <Filename>qv4l2.desktop</Filename>
    <Filename>xine.desktop</Filename>
    <Filename>mpv.desktop</Filename>
+   <Filename>qvidcap.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>org.kde.kamoso.desktop</Filename>
