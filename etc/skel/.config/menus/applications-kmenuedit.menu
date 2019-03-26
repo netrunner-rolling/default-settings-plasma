@@ -87,6 +87,7 @@
    <Filename>org.kde.kirigami2.gallery.desktop</Filename>
    <Filename>cmake-gui.desktop</Filename>
    <Filename>mpv.desktop</Filename>
+   <Filename>kvantummanager.desktop</Filename>
    <Filename>hp-uiscan.desktop</Filename>
    <Filename>qvidcap.desktop</Filename>
   </Include>
@@ -199,6 +200,7 @@
    <Filename>org.kde.ktplogviewer.desktop</Filename>
    <Filename>steam.desktop</Filename>
    <Filename>steam-native.desktop</Filename>
+   <Filename>x11vnc.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>org.kde.kontact.desktop</Filename>
@@ -227,7 +229,6 @@
    <Filename>transmission-qt.desktop</Filename>
    <Menuname>Terminal</Menuname>
    <Filename>thunderbird.desktop</Filename>
-   <Filename>x11vnc.desktop</Filename>
   </Layout>
  </Menu>
  <Menu>
@@ -270,6 +271,7 @@
    <Filename>qv4l2.desktop</Filename>
    <Filename>xine.desktop</Filename>
    <Filename>mpv.desktop</Filename>
+   <Filename>vokoscreen.desktop</Filename>
    <Filename>qvidcap.desktop</Filename>
   </Exclude>
   <Include>
@@ -287,7 +289,6 @@
    <Filename>ghb.desktop</Filename>
    <Filename>org.kde.kamoso.desktop</Filename>
    <Filename>org.kde.kdenlive.desktop</Filename>
-   <Filename>vokoscreen.desktop</Filename>
    <Separator/>
    <Merge type="menus"/>
    <Menuname>More</Menuname>
@@ -311,9 +312,11 @@
    <Filename>qtconfig-qt4.desktop</Filename>
    <Filename>msm_kde_notifier_settings.desktop</Filename>
    <Filename>systemsettings.desktop</Filename>
+   <Filename>x11vnc.desktop</Filename>
   </Layout>
   <Include>
    <Filename>grub-customizer.desktop</Filename>
+   <Filename>x11vnc.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -373,6 +376,7 @@
    <Filename>kde4-k3b.desktop</Filename>
    <Filename>org.kde.spectacle.desktop</Filename>
    <Filename>org.kde.okular.desktop</Filename>
+   <Filename>vokoscreen.desktop</Filename>
    <Filename>imagewriter.desktop</Filename>
   </Include>
   <Exclude>
@@ -381,6 +385,7 @@
    <Filename>hplip.desktop</Filename>
    <Filename>org.kde.klipper.desktop</Filename>
    <Filename>org.kde.importwizard.desktop</Filename>
+   <Filename>kvantummanager.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
   </Exclude>
   <Menu>
@@ -402,6 +407,7 @@
    <Filename>org.kde.kwrite.desktop</Filename>
    <Filename>org.kde.okular.desktop</Filename>
    <Filename>org.kde.spectacle.desktop</Filename>
+   <Filename>vokoscreen.desktop</Filename>
    <Filename>imagewriter.desktop</Filename>
    <Merge type="menus"/>
    <Menuname>XUtilities</Menuname>
